@@ -1,0 +1,30 @@
+ACHADOS SELECT — SITE INICIAL
+
+Arquivos:
+- index.html: site responsivo completo em um único arquivo.
+- LEIA-ME.txt: instruções de configuração e publicação.
+
+COMO PERSONALIZAR
+1. Abra index.html em um navegador para visualizar.
+2. Na área de gestão (ícone de engrenagem no topo), cadastre nome, categoria, descrição, imagem, preço opcional e seu link de afiliado.
+3. O painel local salva os dados apenas no navegador atual. Para publicar o catálogo em outro dispositivo/na internet, será necessário atualizar o catálogo no código do site ou usar a exportação JSON como base para essa atualização.
+4. Substitua os produtos de exemplo pelos produtos reais e links de afiliado aprovados. Os exemplos não são ofertas reais e não têm links de compra.
+5. Configure um e-mail de contato real no rodapé e acrescente páginas de Política de Privacidade, Termos e identificação comercial antes de divulgar amplamente.
+
+PUBLICAÇÃO GRATUITA
+Opção simples: GitHub Pages
+1. Crie uma conta gratuita em github.com.
+2. Crie um repositório público chamado achados-select.
+3. Envie o arquivo index.html para a raiz do repositório.
+4. Em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root), e salve.
+5. O GitHub fornecerá um endereço público. Um domínio próprio é opcional e normalmente pago.
+
+Alternativa: Netlify (plano gratuito sujeito aos limites e termos vigentes)
+1. Crie uma conta em netlify.com.
+2. Use a opção de deploy manual/drag and drop e envie a pasta contendo index.html.
+3. O serviço fornecerá um subdomínio gratuito.
+
+IMPORTANTE SOBRE O MODELO
+Este site é uma vitrine de afiliados. O botão de oferta abre o link externo do parceiro. Não existe carrinho, processamento de pagamento, checkout próprio ou gestão de pedidos.
+Você deve usar apenas links de afiliado válidos e materiais de imagem que tenha autorização para utilizar. Informe claramente a relação de afiliado. Verifique as regras atuais do programa escolhido e as obrigações legais aplicáveis no Brasil.
+Não existe hospedagem gratuita garantida para sempre: planos gratuitos têm limites e podem mudar.
